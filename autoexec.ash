@@ -1,3 +1,3 @@
-sleep 5
+sleep 60
 t app key record
 d:\autoexec.ash
